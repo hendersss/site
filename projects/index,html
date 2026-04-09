@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" translate="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google" content="notranslate">
+    <meta content="#2F3136" name="theme-color">
+    <title>My Portfolio</title>
+    <link rel="icon" href="/img/999.png?v=20260408" type="image/png">
+    <link rel="stylesheet" href="/css/global.css">
+    <link rel="stylesheet" href="/css/projects.css">
+    <link href="https://api.fontshare.com/v2/css?f[]=satoshi@1&f[]=array@400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" data-font="chillax" href="https://api.fontshare.com/v2/css?f[]=chillax@500&display=swap">
+</head>
+<body>
+    <main class="portfolio-page">
+        <h1 class="portfolio-title">My Portfolio</h1>
+
+        <section class="portfolio-list">
+            <article class="portfolio-entry">
+                <div class="entry-meta">Web Tool  *  Featured</div>
+                <a class="entry-title" href="" target="_blank" rel="noopener noreferrer">Exteral CS2 Skin Changer</a>
+                <p class="entry-description">1Currently under development</p>
+            </article>
+        </section>
+    </main>
+</body>
+</html>
